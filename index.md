@@ -14,3 +14,9 @@ Testing adding an image
 FirstVar = 3
 function MYODE 
 ```
+
+
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
